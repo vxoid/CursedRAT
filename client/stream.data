@@ -1,0 +1,6 @@
+**CONNECTION FROM USER**
+User -> linux (OS)
+Server -> 12345 (Id)
+Server -> pwd (Command)
+User -> /home/admin (Output)
+...
